@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dazzy13
 - 👀 I’m interested in Web Design & Development.
-- 🌱 I’m currently learning Javascript & loving/hating every minute of it :)
+- 🌱 I’m currently learning Javascript :)
 - 💞️ I’m looking to collaborate on anything for a newbie like myself.
 - 📫 How to reach me ... ling_1393@icloud.com
 
